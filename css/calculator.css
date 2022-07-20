@@ -1,0 +1,36 @@
+.workspace {
+    margin: 50px;
+}
+
+.ash-container {
+    background-color: grey;
+    height: 80px;
+    color: white;
+    align-items: center;
+    font-size: 40px;
+}
+
+.AC-signs, .seven-nine, .four-six, .one-three, .equal-row {
+    height: 70px;
+    background-color: antiquewhite;
+    font-size: xx-large;
+}
+
+.col-md-4, .col-md-3, .AC-signs, .seven-nine, .four-six, .one-three, .equal-row {
+    border: 0.5px solid black;
+
+    height: 70px;
+}
+
+#orange {
+    height: 70px;
+    background-color: orange;
+    border: none;
+    color: white;
+    font-size: xx-large;
+}
+
+#new {
+    border: 1px solid black;
+    height: 70px;
+}
